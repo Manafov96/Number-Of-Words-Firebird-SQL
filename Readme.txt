@@ -1,0 +1,1 @@
+This is Firebird block for find how many words we have in Text.
